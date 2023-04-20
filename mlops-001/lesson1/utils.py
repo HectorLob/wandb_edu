@@ -2,6 +2,7 @@ import wandb
 from sklearn.metrics import ConfusionMatrixDisplay
 from IPython.display import display, Markdown
 from fastai.vision.all import *
+import torch
 
 import params
 
